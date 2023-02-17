@@ -2,7 +2,7 @@
 //  AppDelegate.m
 //  DeleteMultipleSelect
 //
-//  Created by Horizon on 2021/7/21.
+//  Created by MorganWang  on 2021/7/21.
 //
 
 #import "AppDelegate.h"
